@@ -1,6 +1,7 @@
 # Termux Setup Commands
-```
-```
+
+
+
 ```
 termux-change-repo
 # → Group rotate
@@ -59,6 +60,3 @@ ls ~/storage
 pkg autoclean
 pkg clean
 ```
-```
-```
-
