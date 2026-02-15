@@ -1,5 +1,5 @@
 # Termux Setup Commands
-
+```
 ```
 ```
 termux-change-repo
@@ -39,7 +39,6 @@ pip install mechanize
 ```
 pip install bs4
 ```
-```
 
 
 # Installation or Set up Check
@@ -61,3 +60,5 @@ pkg autoclean
 pkg clean
 ```
 ```
+```
+
