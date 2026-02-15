@@ -1,6 +1,8 @@
-### START NOW
+# Termux Setup Commands
+
+```bash
 termux-change-repo
-# → Select Group rotate
+# → Group rotate
 # → Official mirrors choose (India / Global / Default)
 termux-setup-storage
 pkg update -y
@@ -14,14 +16,17 @@ pip install requests
 pip install mechanize
 pip install bs4
 
+
 ### Installation or Set up Check
 python --version
 pip --version
 git --version
 pkg list-installed
 
+
 ### Check Storage Permission
 ls ~/storage
+
 
 ### Cleanup: Unnecessary cache remove & Space safe (Optional)
 pkg autoclean
